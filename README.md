@@ -8,7 +8,7 @@
 
 - 📝 I regulary write articles on [Notion](Notion)
 
-- 💬 Ask me about **JavaScript , React , Vue**
+- 💬 Ask me about **JavaScript , TypeScript**
 
 - 📫 How to reach me **xhg1945454120@gmail.com**
 
