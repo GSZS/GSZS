@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GSZS</h1>
+<h1 align="center">Hi 👋 I'm GSZS</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gszs" alt="gszs_github" /> </p>
 
